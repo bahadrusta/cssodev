@@ -1,0 +1,52 @@
+* {
+    text-align: center;
+    list-style-position: inside;
+}
+
+body {
+    background-color:blanchedalmond
+}
+
+h1 {
+    color:blue
+}
+
+h2 {
+    color:red;
+}
+
+h3 {
+    color:purple
+}
+
+p {
+    color:black;
+}
+
+.font {
+    color:darkgreen;
+}
+
+.font2 {
+    color:deeppink;
+}
+
+.font3 {
+    color:darkmagenta;
+}
+
+.font4 {
+    color:darkorange;   
+}
+
+.font-size {
+    font-size: 20px;
+}
+
+.font-size2 {
+    font-size: 18px;
+}
+
+.font-size3 {
+    font-size: 16px;
+}
